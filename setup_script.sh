@@ -22,6 +22,6 @@ cd ..
 sudo rm -r ./temp
 
 curl -fsSL https://bun.sh/install | bash
-sudp apt install -y default-jdk
+sudo apt install -y default-jdk
 
 cp -r ./scripts/ ~/
